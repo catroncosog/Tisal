@@ -1,0 +1,8 @@
+2019-09-24 09:54:20,214 INFO  log – Request recibido - Método: "http://tisal.cl/Suma" - ::1
+2019-09-24 09:54:20,223 ERROR log – Error de Acceso [Sin AppSetting serviceToken] - "http://tisal.cl/Suma" - ::1
+2019-09-24 09:58:18,626 INFO  log – Request recibido - Método: "http://tisal.cl/Suma" - ::1
+2019-09-24 09:58:18,626 ERROR log – Error de Acceso [Sin AppSetting serviceToken] - "http://tisal.cl/Suma" - ::1
+2019-09-24 09:58:20,043 INFO  log – Request recibido - Método: "http://tisal.cl/Suma" - ::1
+2019-09-24 09:58:20,043 ERROR log – Error de Acceso [Sin AppSetting serviceToken] - "http://tisal.cl/Suma" - ::1
+2019-09-24 10:26:45,363 INFO  log – Request recibido - Método: "http://tisal.cl/Suma" - ::1
+2019-09-24 10:26:45,363 ERROR log – Error de Acceso [Sin AppSetting serviceToken] - "http://tisal.cl/Suma" - ::1

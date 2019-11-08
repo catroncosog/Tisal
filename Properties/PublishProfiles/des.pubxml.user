@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Usuario\Desktop\WS\WS_Entidades_17_Sept\Test\WSEntidades\Publicacion\Publicacion_05_11_2019</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/log4net.dll">
+      <publishTime>06/07/2019 15:45:06</publishTime>
+    </File>
+    <File Include="bin/Oracle.ManagedDataAccess.dll">
+      <publishTime>06/24/2016 09:06:40</publishTime>
+    </File>
+    <File Include="bin/Tisal.Cryptography.dll">
+      <publishTime>06/07/2019 15:45:08</publishTime>
+    </File>
+    <File Include="bin/Tisal.Utilidades.dll">
+      <publishTime>06/07/2019 15:45:06</publishTime>
+    </File>
+    <File Include="bin/WebService1.dll">
+      <publishTime>11/05/2019 10:35:09</publishTime>
+    </File>
+    <File Include="connectionStrings.config">
+      <publishTime>11/03/2019 22:36:57</publishTime>
+    </File>
+    <File Include="EntidadUsuario.cs">
+      <publishTime>09/30/2019 14:35:07</publishTime>
+    </File>
+    <File Include="Service1.asmx">
+      <publishTime>06/07/2019 15:45:08</publishTime>
+    </File>
+    <File Include="Tisal.NCommon.Excepciones.dll">
+      <publishTime>11/01/2019 18:34:39</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/04/2019 14:33:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

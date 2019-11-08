@@ -1,0 +1,14 @@
+2019-09-30 17:33:30,466 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:33:46,535 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:33:47,723 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:34:19,526 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:36:23,570 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:36:25,218 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:36:25,883 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:37:27,909 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:37:28,771 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:37:46,332 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:37:54,755 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 17:58:50,617 ERROR log – Error de Acceso [Sin SOAPAction] -  - 127.0.0.1
+2019-09-30 18:07:58,506 INFO  log – Request recibido - Método: "http://tisal.cl/ObtenerEntidadUsuario" - 127.0.0.1
+2019-09-30 18:07:58,519 ERROR log – Error de Acceso [Sin AppSetting serviceToken] - "http://tisal.cl/ObtenerEntidadUsuario" - 127.0.0.1
